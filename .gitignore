@@ -1,0 +1,4 @@
+/.env
+/tg.db
+/venv
+/__pycache__
